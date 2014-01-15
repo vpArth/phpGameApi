@@ -1,0 +1,91 @@
+{
+  "id": "c4132052-100d-836b-f15b-50d61665b982",
+  "name": "XO",
+  "timestamp": 1389633563271,
+  "requests": [
+    {
+      "collectionId": "c4132052-100d-836b-f15b-50d61665b982",
+      "id": "3741fadb-1963-1215-5ad1-cc04223c8e40",
+      "name": "move",
+      "description": "",
+      "url": "http://localhost:8000/XOGame/move?pos=0",
+      "method": "GET",
+      "headers": "",
+      "data": [],
+      "dataMode": "params",
+      "timestamp": 0,
+      "responses": [],
+      "version": 2
+    },
+    {
+      "collectionId": "c4132052-100d-836b-f15b-50d61665b982",
+      "id": "4aa009d7-4c94-085b-6afd-77329e68ba5a",
+      "name": "random move",
+      "description": "",
+      "url": "http://localhost:8000/XOGame/random/move?pos=0",
+      "method": "GET",
+      "headers": "",
+      "data": [],
+      "dataMode": "params",
+      "timestamp": 0,
+      "responses": [],
+      "version": 2
+    },
+    {
+      "collectionId": "c4132052-100d-836b-f15b-50d61665b982",
+      "id": "aa1e589a-3df7-3e2a-80e8-fcf3241bd12a",
+      "name": "stupid start",
+      "description": "",
+      "url": "http://localhost:8000/XOGame/stupid/start",
+      "method": "GET",
+      "headers": "",
+      "data": [],
+      "dataMode": "params",
+      "timestamp": 0,
+      "responses": [],
+      "version": 2
+    },
+    {
+      "collectionId": "c4132052-100d-836b-f15b-50d61665b982",
+      "id": "b1fdbf9b-24aa-3fd9-b802-261f443c7339",
+      "name": "random start",
+      "description": "",
+      "url": "http://localhost:8000/XOGame/random/start",
+      "method": "GET",
+      "headers": "",
+      "data": [],
+      "dataMode": "params",
+      "timestamp": 0,
+      "responses": [],
+      "version": 2
+    },
+    {
+      "collectionId": "c4132052-100d-836b-f15b-50d61665b982",
+      "id": "e19557ca-3cc6-335f-1ca5-bdb10225cb00",
+      "name": "start",
+      "description": "",
+      "url": "http://localhost:8000/XOGame/start",
+      "method": "GET",
+      "headers": "",
+      "data": [],
+      "dataMode": "params",
+      "timestamp": 0,
+      "responses": [],
+      "version": 2
+    },
+    {
+      "collectionId": "c4132052-100d-836b-f15b-50d61665b982",
+      "id": "fcb84d19-43f5-64a3-17df-71cf8acb9581",
+      "name": "stupid move",
+      "description": "",
+      "url": "http://localhost:8000/XOGame/stupid/move?pos=0",
+      "method": "GET",
+      "headers": "",
+      "data": [],
+      "dataMode": "params",
+      "timestamp": 0,
+      "responses": [],
+      "version": 2
+    }
+  ]
+}

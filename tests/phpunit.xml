@@ -1,0 +1,6 @@
+<phpunit>
+    <testsuite name='Core'>
+        <file>./core/loader.php</file>
+        <file>./core/router.php</file>
+    </testsuite>
+</phpunit>
